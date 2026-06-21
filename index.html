@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Samsung S20 FE Droidian APT Repo</title>
+  <style>
+    body { font-family: monospace; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    pre { background: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto; }
+    h1, h2 { font-family: sans-serif; }
+    a { color: #0066cc; }
+  </style>
+</head>
+<body>
+  <h1>Samsung S20 FE Droidian APT Repository</h1>
+
+  <h2>1. Add GPG key</h2>
+  <pre>curl https://mathew-dennis.github.io/adaptation-samsung-s20fe/s20fe-repo.gpg | sudo tee /etc/apt/trusted.gpg.d/s20fe.gpg</pre>
+
+  <h2>2. Add repository</h2>
+  <pre>echo "deb https://mathew-dennis.github.io/adaptation-samsung-s20fe stable main" | sudo tee /etc/apt/sources.list.d/s20fe.list
+sudo apt-get update</pre>
+
+  <h2>3. Install adaptation</h2>
+  <pre>sudo apt-get install adaptation-samsung-s20fe</pre>
+
+  <h2>Available Packages</h2>
+  <ul>
+    <li>adaptation-samsung-s20fe</li>
+    <li>adaptation-samsung-s20fe-configs</li>
+  </ul>
+
+  <h2>Direct Download</h2>
+  <p>Packages are also available as direct downloads on the
+  <a href="https://github.com/mathew-dennis/adaptation-samsung-s20fe/releases/tag/latest-samsung-s20fe">
+  GitHub Releases page</a>.</p>
+</body>
+</html>

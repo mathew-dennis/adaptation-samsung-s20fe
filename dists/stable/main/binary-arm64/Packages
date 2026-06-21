@@ -1,0 +1,30 @@
+Package: adaptation-samsung-s20fe
+Version: 0.0.1-1
+Architecture: arm64
+Maintainer: Mathew Dennis <mathewdennis693@gmail.com>
+Installed-Size: 175
+Depends: adaptation-samsung-s20fe-configs (= 0.0.1-1)
+Filename: pool/main/adaptation-samsung-s20fe_0.0.1-1_arm64.deb
+Size: 49184
+MD5sum: 933255d79eae95b6b37c15475d24db17
+SHA1: 965ec0afd937809289b41f9290dcbfff9f200f4b
+SHA256: f352971d34053a98992090f753bec50a25083627009c2087fbfb1c24574d8771
+Section: metapackages
+Priority: optional
+Description: Community adaptation for Samsung S20 FE - metapackage
+
+Package: adaptation-samsung-s20fe-configs
+Source: adaptation-samsung-s20fe
+Version: 0.0.1-1
+Architecture: arm64
+Maintainer: Mathew Dennis <mathewdennis693@gmail.com>
+Installed-Size: 9
+Filename: pool/main/adaptation-samsung-s20fe-configs_0.0.1-1_arm64.deb
+Size: 1984
+MD5sum: 43282b7cfe1585185c15ff4b359a99f1
+SHA1: 98b3796f043009a8abf6e39fcf99b432714edd6f
+SHA256: 268742a5edf1414e080f02d3fd449adcef784036c1ff274189ec39634d9e6cbf
+Section: metapackages
+Priority: optional
+Description: Community adaptation for Samsung S20 FE - adaptation configurations
+

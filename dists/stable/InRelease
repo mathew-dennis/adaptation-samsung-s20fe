@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://mathew-dennis.github.io/adaptation-samsung-s20fe
+Label: Samsung S20 FE Droidian
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: Droidian adaptation packages for Samsung Galaxy S20 FE
+Date: Sun, 21 Jun 2026 20:57:42 +0000
+MD5Sum:
+ 869a2eb1f9d0ed215b2c60c58abd6128              284 Release
+ e8b885eed9aab034c72c9499d11f7245             1094 main/binary-arm64/Packages
+ 6051026a4c1cc9c278d0878cf90d9c6a              513 main/binary-arm64/Packages.gz
+SHA1:
+ f9d24893721f194936c9dd4fc8d4fcb19a18cc48              284 Release
+ 56927971b7f4ec52ad053b598ba5e0010d30ce90             1094 main/binary-arm64/Packages
+ a427573d48d3cb6b9c271d7d39eec7559a586618              513 main/binary-arm64/Packages.gz
+SHA256:
+ 60616a6191e14dc1e419140171596654b0e83d0b2119940f2b72caf460901481              284 Release
+ f2d30a0003f05bd9bdafe81e479ae18af2baa8f8a7161605ff820d2e28a15a6e             1094 main/binary-arm64/Packages
+ f92d56786699dda04b918d056567448949174ec2b7c211ec26bbee8673302202              513 main/binary-arm64/Packages.gz
+SHA512:
+ 9b848f92a3cd7955c37ad2f70af28eaf1f96e07940de00a25d72b7b7e74dee14848eeb16fe0442c1e69f4ac15027629c1df41ea1b8a8bb1d87da1b6cba599c5d              284 Release
+ 3123a96cc4cd3a2cd43d7615378da612dbb79150719ecdcdfa45d43bcbd7fe3f42953054929ee33a483cc335ea9b79bdc217f72099c76f499472cbb264662fce             1094 main/binary-arm64/Packages
+ d552a97b4dd61673214356d75710585775d4bb34bb919972817d2747912308c28e422e71c86ff7bb6beb82ba16a23c1f2c459b0177939d49349d70003bd8a353              513 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1eOwtLCgwbh027RqqbDh1XAkof4FAmo4UEYACgkQqbDh1XAk
+of5fAQ/9EFBUyxxKhFOoI8XTmF1qmMo9hhukkRl078dQ0+DrNp71lpfloSXraqKV
+I+xa7KZhLpmtWDiQKQYjw2i501ey9Dp4u9Bdx4OtvUaeZHQKuD2EQvkpsgmpoVjm
+91KwMSvPWaSlGq/HGAlJ/avaDkIAhSwsd6UvB3qux8awH4bko+FzwcFyi/AmJ1Nd
+8LI7e8lOKHjSuhJPvmD8CIgldFh+i0H+pfxeGAjkM4PiDD5hLzRurZrTX5ZvuTic
+AlxIC1MWs2TQEhcO3jiklH2sBhSD/2RTRiXQPOOVJXnrJddA9/WDBlihajvqt2fo
+Gl56JUTKNQ4+s6+BLoWat6lvrzrGaEm/tK2IvBDvBf2WL0jwhQwI6uyodqTWrvGK
+pW9pUQCnNgI8urvZbF9igKYOgzwT03WC5NUihEKtcsGzvr/t7Rc4uKTbKmHo7YH5
+FGDmvBEqkvdICuiPbEMwBTbp8YkRCfAGmlY/bL7map9+Jw3h5y3qGa38kOhoNeuV
+f0+NQvjNaZK3COaVi245VgPj/Uy6ZqiPzVVRd9PO+whqS5cfxIx4ivHsIMiGdW29
+eHoPjfcRnHbL6AMA1ifXL5YVuO/Hp48RGVcSB5R+pQKiWYhZmTFSZ8UBrHPnk9Nl
+jhIquY2nDdxHlEA07tJMWfQCipYxJu4UBPhBLTlfaGY9cO+m7dE=
+=6ZB3
+-----END PGP SIGNATURE-----
